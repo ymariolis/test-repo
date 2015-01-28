@@ -1,2 +1,2 @@
 # test-repo
-creted for testing purposes only
+created for testing purposes only
